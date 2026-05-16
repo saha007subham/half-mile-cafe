@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-main: #F7F1EE;
+  --color-card: #FFF8F4;
+  --color-mint: #9ED8C3;
+  --color-peach: #F6D7B8;
+  --color-pink: #F5DCE5;
+  --color-primary: #2B1D1B;
+  --color-secondary: #6F625E;
+  --color-footer: #2B1D1B;
+  
+  --font-poppins: 'Poppins', sans-serif;
+  --font-playfair: 'Playfair Display', serif;
+}
+
+@layer base {
+  body {
+    @apply font-poppins text-primary bg-main antialiased selection:bg-mint selection:text-primary;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-playfair font-normal;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-main;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-mint rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-peach;
+}
