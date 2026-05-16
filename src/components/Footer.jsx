@@ -9,8 +9,8 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-1 lg:col-span-1">
             <Link to="home" smooth={true} className="cursor-pointer mb-8 block">
-              <span className="font-playfair text-3xl tracking-wide text-main">
-                2.5 Mile
+              <span className="font-playfair text-2xl md:text-3xl tracking-wide text-main">
+                Two and a Half Mile Cafe
               </span>
             </Link>
             <p className="font-poppins font-light text-main/70 leading-relaxed mb-8">

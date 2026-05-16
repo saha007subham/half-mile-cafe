@@ -36,8 +36,8 @@ const Navbar = () => {
           duration={800}
           className="cursor-pointer"
         >
-          <span className="font-playfair text-2xl md:text-3xl tracking-wide text-primary">
-            2.5 Mile
+          <span className="font-playfair text-xl md:text-2xl tracking-wide text-primary">
+            Two and a Half Mile Cafe
           </span>
         </Link>
 
