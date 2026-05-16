@@ -1,16 +1,92 @@
-# React + Vite
+# Half Mile Cafe ☕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive cafe website built using **React.js** and **Vite**.
+This project showcases a premium coffee shop landing page with elegant UI, smooth layout sections, and a clean user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Modern Hero Section
+* Responsive Navbar
+* Beautiful Gallery Layout
+* Menu Showcase
+* Testimonials Section
+* Reservation Section
+* Location & Footer
+* Fully Responsive Design
+* Fast Performance with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* JavaScript
+* CSS3
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── assets/
+ ├── App.jsx
+ ├── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/saha007subham/half-mile-cafe.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd half-mile-cafe
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## 📸 Preview
+
+A premium cafe-themed website inspired by modern coffee shop designs.
+
+---
+
+## 👨‍💻 Author
+
+Subham Saha
+Frontend Developer | React.js Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
