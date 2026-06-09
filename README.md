@@ -70,7 +70,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Coming Soon...
+Coming Soon....
 
 ---
 
