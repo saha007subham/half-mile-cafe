@@ -82,7 +82,7 @@ A premium cafe-themed website inspired by modern coffee shop designs.
 
 ## 👨‍💻 Author
 
-Subham Saha
+Subham Ozil Saha
 Frontend Developer | React.js Developer
 
 ---
